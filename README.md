@@ -1,2 +1,2 @@
-# hack_full_data_permission
-A temporary hack to combat against the apps permission issue on Android 11
+https://github.com/supremegamers/device_generic_common/commit/2d47891376c96011b2ee3c1ccef61cb48e15aed6
+https://github.com/supremegamers/android_frameworks_base/commit/24a08bf800b2e461356a9d67d04572bb10b0e819
