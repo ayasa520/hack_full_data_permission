@@ -1,0 +1,2 @@
+on property:persist.sys.nodataperm=1
+    exec u:r:su:s0 root -- /system/bin/sh /system/etc/nodataperm.sh
